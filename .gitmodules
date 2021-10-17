@@ -1,3 +1,6 @@
 [submodule "chefbook-android"]
 	path = chefbook-android
 	url = https://mephistolie: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@github.com/mephistolie/chefbook-android
+[submodule "chefbook-server"]
+	path = chefbook-server
+	url = https://mephistolie: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@github.com/mephistolie/chefbook-server
