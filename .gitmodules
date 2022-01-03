@@ -4,3 +4,6 @@
 [submodule "chefbook-server"]
 	path = chefbook-server
 	url = https://mephistolie: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@github.com/mephistolie/chefbook-server
+[submodule "chefbook-graphics"]
+	path = chefbook-graphics
+	url = https://github.com/mephistolie/chefbook-graphics
