@@ -1,7 +1,7 @@
 # ChefBook
 #### NOTE: THIS README IS ACTUAL FOR NEW WIP VERSION
 
-ChefBook is an cross platform Recipe Book & Shopping List app with an open sourced client
+ChefBook is an cross platform open source Recipe Book & Shopping List app
 #### [📱 Google Play](https://play.google.com/store/apps/details?id=com.cactusknights.chefbook)
 #### [📙 VK Page](https://vk.com/chefbook)
 #### [👨‍🍳 Telegram Stickers](https://t.me/addstickers/chefbook)
