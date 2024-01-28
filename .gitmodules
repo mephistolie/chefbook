@@ -1,6 +1,3 @@
-[submodule "chefbook-android"]
-	path = chefbook-android
-	url = https://mephistolie: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@github.com/mephistolie/chefbook-android
 [submodule "chefbook-graphics"]
 	path = chefbook-graphics
 	url = https://github.com/mephistolie/chefbook-graphics
