@@ -7,3 +7,6 @@
 [submodule "chefbook-backend"]
 	path = chefbook-backend
 	url = https://github.com/mephistolie/chefbook-backend.git
+[submodule "chefbook-mobile"]
+	path = chefbook-mobile
+	url = https://github.com/mephistolie/chefbook-mobile
