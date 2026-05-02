@@ -16,6 +16,7 @@ This repository is a workspace root that contains several project modules.
 - Keep changes scoped to the module that owns the behavior.
 - Avoid cross-cutting refactors unless they are required for the task.
 - Prefer module-local build and test commands over workspace-wide commands.
+- Use `git switch` for branch changes; do not use `git checkout` to switch branches.
 
 ## Ownership Boundaries
 
