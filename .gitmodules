@@ -10,3 +10,6 @@
 [submodule "chefbook-mobile"]
 	path = chefbook-mobile
 	url = https://github.com/mephistolie/chefbook-mobile
+[submodule "chefbook-contracts"]
+	path = chefbook-contracts
+	url = ../chefbook-contracts.git

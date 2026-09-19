@@ -4,6 +4,7 @@ This repository is a workspace root that contains several project modules.
 
 ## Repository Map
 
+- `chefbook-contracts` - shared public API contracts (OpenAPI)
 - `chefbook-mobile` - primary mobile client
 - `chefbook-backend` - Go backend with API gateway, common libraries, and microservices
 - `chefbook-frontend` - web frontend stub / separate web app track
@@ -20,6 +21,7 @@ This repository is a workspace root that contains several project modules.
 
 ## Ownership Boundaries
 
+- Shared public HTTP contracts belong under `chefbook-contracts`; consumer generator configuration stays in backend/mobile.
 - Mobile application work belongs under `chefbook-mobile`.
 - Backend platform and service work belongs under `chefbook-backend`.
 - Web frontend work belongs under `chefbook-frontend`.

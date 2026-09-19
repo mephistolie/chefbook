@@ -38,6 +38,7 @@ I plan to develop iOS client when Android client version 4.0 will be released. I
 Development plan same as iOS. For this moment, frontend contains only stub homepage. It's quickly crooked made on React. I plan use that framework for full web app.
 
 ## Submodules
+* `chefbook-contracts` - Shared public API contracts ([workflow](chefbook-contracts/README.md))
 * `chefbook-backend` - Backend
 * `chefbook-frontend` - Frontend
 * `chefbook-android` - Android client
